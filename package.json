@@ -21,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/misakisuna705/MqtoFire/issues"
   },
-  "homepage": "https://github.com/misakisuna705/MqtoFire#readme"
+  "homepage": "https://github.com/misakisuna705/MqtoFire#readme",
+  "dependencies": {
+    "commander": "^4.0.1",
+    "firebase-admin": "^8.8.0",
+    "mqtt": "^3.0.0",
+    "path": "^0.12.7"
+  }
 }

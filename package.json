@@ -1,6 +1,6 @@
 {
   "name": "mqtofire",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a tool to subscribe to MQTT topics and dump to Cloud Firestore of Firebase database",
   "main": "init.js",
   "scripts": {
@@ -22,6 +22,9 @@
     "url": "https://github.com/misakisuna705/MqtoFire/issues"
   },
   "homepage": "https://github.com/misakisuna705/MqtoFire#readme",
+  "bin": {
+    "mqtofire": "init.js"
+  },
   "dependencies": {
     "commander": "^4.0.1",
     "firebase-admin": "^8.8.0",

@@ -1,0 +1,25 @@
+{
+  "name": "mqtofire",
+  "version": "1.0.0",
+  "description": "a tool to subscribe to MQTT topics and dump to Cloud Firestore of Firebase database",
+  "main": "init.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misakisuna705/MqtoFire.git"
+  },
+  "keywords": [
+    "mqtt",
+    "subscribe",
+    "firebase",
+    "firestore"
+  ],
+  "author": "misakisuna705",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/misakisuna705/MqtoFire/issues"
+  },
+  "homepage": "https://github.com/misakisuna705/MqtoFire#readme"
+}

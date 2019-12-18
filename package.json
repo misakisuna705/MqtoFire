@@ -1,6 +1,6 @@
 {
   "name": "mqtofire",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "a tool to subscribe to MQTT topics and dump to Cloud Firestore of Firebase database",
   "main": "init.js",
   "scripts": {
